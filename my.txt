@@ -1,0 +1,310 @@
+ ¿A qué hora sale el autobús a Madrid?	What time does the bus to Madrid leave?	Travel and accommodation
+ ¿Qué hora es?	What time is it?	Time and dates
+ A...	At...	Time and dates
+ sábado	Saturday	Time and dates
+(Muchas) gracias	Thank you (very much)	Basic
+¡Ayuda!	Help!	Emergencies
+¿A qué hora llega?	What time does it arrive?	Travel and accommodation
+¿A qué hora sale el autobús para...?	What time is the bus to...?	Travel and accommodation
+¿A qué hora?	At what time? 	Time and dates
+¿Cómo estás?	How are you?	Basic
+¿Cómo se llama usted?	What's your name?	Basic
+¿Cuándo?	When?	Basic
+¿Cuánto es?	How much does it cost?	Basic
+¿Cuánto es?	How much does it cost?	Travel and accommodation
+¿De dónde sale?	Where does it leave from?	Travel and accommodation
+¿Dónde está...?	Where is...?	Basic
+¿Habla (usted) inglés?	Do you speak English?	Basic
+¿Hay algo más barato?	Do you have something cheaper?	Travel and accommodation
+¿Hay...?	Do you have...? 	Basic
+¿Qué?	What?	Basic
+¿Se puede acampar aquí?	Can I camp here?	Trekking
+¿Se puede...?	Can one...?	Basic
+¿Tiene una habitación...?	Do you have a room...? 	Travel and accommodation
+a la plancha	fried 	Food and drink
+a la parilla, al asado	grilled	Food and drink
+abierto, cerrado	open, closed	Basic
+abril	April 	Time and dates
+accidente	accident	Emergencies
+aeropuerto	airport 	Transport
+agosto	August 	Time and dates
+agua (sin gas/con gas)	mineral water (still/sparkling)	Food and drink
+agua potable	drinking water 	Trekking
+ahora, después	now, later	Basic
+ayer	yesterday 	Time and dates
+al horno	baked 	Food and drink
+almuerzo	lunch 	Food and drink
+alto	high 	Trekking
+andén	platform	Transport
+animal	animal 	Plants and animals
+ano	year 	Time and dates
+aquí, allí	here, there	Basic
+árbol	tree 	Trekking
+arbusto	bushes 	Plants and animals
+arroyo	stream 	Trekking
+arroz	rice	Food and drink
+asiento	seat 	Transport
+auto, coche	Car 	Transport
+autobús	bus 	Transport
+ave, pájaro	bird 	Plants and animals
+avión	aeroplane 	Transport
+azúcar	sugar	Food and drink
+banco	chemist 	Travel and accommodation
+baño	toilet 	Travel and accommodation
+baño compartido	shared bathroom 	Travel and accommodation
+baño privado	en suite bathroom 	Travel and accommodation
+barco (transbordator)	boat (ferry)	Transport
+barranco	ravine 	Trekking
+bebida	drink 	Food and drink
+bencina, gasolina	petrol 	Transport
+bicicleta	bicycle 	Transport
+Bien, gracias	Fine, thank you	Basic
+billete, pasaje	ticket 	Transport
+billete, pasaje de ida y vuelta	return ticket	Transport
+bosque	forest 	Trekking
+botas de montaña	hiking boots	Equipment
+Buenas noches	Good evening, Good night	Basic
+Buenas tardes	Good afternoon	Basic
+bueno, malo	good, bad	Basic
+Buenos dias	Good morning	Basic
+caballo	horse 	Plants and animals
+café	coffee 	Food and drink
+caído	fallen	Emergencies
+cajero automático	bank 	Travel and accommodation
+calle	street 	Travel and accommodation
+cambia	grill, steakhouse 	Travel and accommodation
+campamento	camping 	Trekking
+carne	meat 	Food and drink
+carpintero	woodpecker 	Plants and animals
+carretera	road 	Travel and accommodation
+carta	menu	Food and drink
+cartucho de gas	camping gas cartridge	Equipment
+catorce	14	Numerals
+cebolla	onion 	Food and drink
+cena	dinner 	Food and drink
+centolla	king crab 	Food and drink
+cerdo	pork 	Food and drink
+cero	0	Numerals
+cerro, monte	peak 	Trekking
+cerveza	beer 	Food and drink
+ceviche	marinated raw fish 	Food and drink
+chaqueta	jacket 	Equipment
+chocolate	chocolate	Food and drink
+chuleta	chop or cutlet 	Food and drink
+chupe de centolla	king crab cooked in white wine, cream and breadcrumbs	Food and drink
+Ciao	Bye (informal)	Basic
+cien / ciento	100	Numerals
+ciento uno	101	Numerals
+cinco	5	Numerals
+cincuenta	50	Numerals
+ciruela	plum 	Food and drink
+cisne	swan 	Plants and animals
+ciudad	exchange office 	Travel and accommodation
+colchoneta	sleeping mat 	Equipment
+comisaría	police station 	Travel and accommodation
+con dos camas	two beds 	Travel and accommodation
+Con, sin	with, without	Basic
+cóndor	condor 	Plants and animals
+conejo	rabbit 	Plants and animals
+conejo	rabbit 	Food and drink
+congrio	white-fleshed fish	Food and drink
+correo	post office 	Travel and accommodation
+cuarenta	40	Numerals
+cuatro	4	Numerals
+De nada	You're welcome 	Basic
+desayuno	breakfast 	Food and drink
+día	day 	Time and dates
+diciembre	December 	Time and dates
+diecinueve	19	Numerals
+dieciocho	18	Numerals
+dieciséis	16	Numerals
+diecisiete	17	Numerals
+diez	10	Numerals
+Discúlpeme, perdón	Excuse me	Basic
+doce	12	Numerals
+domingo	Sunday 	Time and dates
+dos	2	Numerals
+dos mil	2000	Numerals
+dos mil quinientos cuaretna cinco	2545	Numerals
+dos noches	two nights	Travel and accommodation
+doscientos	200	Numerals
+empañada	filled pastry	Food and drink
+empinado	steep 	Trekking
+enero	January 	Time and dates
+enlatado	tinned	Food and drink
+ensalada	salad 	Food and drink
+ensalada surtida	mixed salad	Food and drink
+ensalada Chilena	salad with tomato and onion	Food and drink
+entrada	entree 	Food and drink
+Es la una	1300	Time and dates
+Es la una menos cuarto	1240	Time and dates
+estación de bencina	petrol station  	Travel and accommodation
+estación, terminal	station 	Transport
+este/a, ese/a	this, that	Basic
+estofado	stew 	Food and drink
+estos/as, esos/as	these, those	Basic
+febrero	February 	Time and dates
+filete	fillet steak 	Food and drink
+filtro solar	sun cream 	Equipment
+flamenco	flamingo	Plants and animals
+fruta seca	dried fruit	Food and drink
+frutas	fruit	Food and drink
+galleta	biscuit	Food and drink
+gato	cat 	Plants and animals
+glaciar	glacier 	Trekking
+guarda	warden/ranger 	Trekking
+guardería	warden’s/ranger’s hut 	Trekking
+guía	guidebook 	Equipment
+habitación	room 	Travel and accommodation
+habitación para dos personas	double room 	Travel and accommodation
+habitación para una persona	single room 	Travel and accommodation
+Hasta luego or Adiós	Goodbye	Basic
+hoy	today 	Time and dates
+Hola	Hello	Basic
+hora	hour 	Time and dates
+hospital	hospital	Emergencies
+hostal	hotel 	Travel and accommodation
+huala	grebe 	Plants and animals
+huevos	eggs	Food and drink
+yeco	cormorant 	Plants and animals
+inconsciente	unconscious	Emergencies
+invierno	winter 	Time and dates
+jueves	Thursday 	Time and dates
+jugo	juice 	Food and drink
+julio	July 	Time and dates
+junio	June 	Time and dates
+La cuenta, por favor	Can I have the bill,please?	Food and drink
+la farmacia	city, town 	Travel and accommodation
+lago	lake 	Trekking
+lavadero	laundrette 	Travel and accommodation
+leche	milk	Food and drink
+lechuga	lettuce 	Food and drink
+lluvia	rain 	Trekking
+Lo siento	Sorry	Basic
+lomo	steak 	Food and drink
+lunes	Monday 	Time and dates
+mayo	May 	Time and dates
+mañana	tomorrow 	Time and dates
+mañana	morning	Time and dates
+mantequilla	butter	Food and drink
+manzana	apple 	Food and drink
+mapa	map 	Equipment
+mariscos	shellfish	Food and drink
+marmelada	jam	Food and drink
+martes	Tuesday 	Time and dates
+marzo	March 	Time and dates
+más, menos	more, less	Basic
+matrimonial	double bed 	Travel and accommodation
+Me llamo...	My name is...	Basic
+médico	doctor	Emergencies
+membrillo	quince 	Food and drink
+menú del día	set menu	Food and drink
+mercado	market 	Travel and accommodation
+merluza	hake 	Food and drink
+mes	month 	Time and dates
+miércoles	Wednesday 	Time and dates
+mil	1000	Numerals
+minuto	minute	Time and dates
+mochila	rucksack, pack	Equipment
+montaña	mountain 	Trekking
+Mucho gusto	Pleased to meet you	Basic
+nandú	lesser rhea 	Plants and animals
+naranja	orange	Food and drink
+No	No	Basic
+No hablo español	I don’t speak Spanish	Basic
+noche	evening 	Time and dates
+noche	night 	Time and dates
+noventa	90	Numerals
+noviembre	November 	Time and dates
+nueve	9	Numerals
+nuez	nuts	Food and drink
+ochenta	80	Numerals
+ocho	8	Numerals
+octubre	October 	Time and dates
+once	11	Numerals
+once	afternoon tea 	Food and drink
+otoño	autumn 	Time and dates
+paila	seafood broth 	Food and drink
+pan	bread	Food and drink
+papas fritas	French fries 	Food and drink
+Para una noche	For one night 	Travel and accommodation
+parilla, asado	hostel 	Travel and accommodation
+pasaporte	passport	Travel and accommodation
+pasillo	aisle 	Transport
+paso	pass 	Trekking
+pasta	pasta	Food and drink
+pasto	grass 	Plants and animals
+pato	duck 	Plants and animals
+peligro	danger	Emergencies
+perro	dog 	Plants and animals
+pescado	fish 	Food and drink
+pil-pil	very spicy 	Food and drink
+pimienta	pepper	Food and drink
+pingüino	penguin 	Plants and animals
+policía	police	Emergencies
+pollo	chicken	Food and drink
+Por favor	Please	Basic
+postre	desert 	Food and drink
+primavera	spring 	Time and dates
+principal	main course 	Food and drink
+puente	bridge 	Trekking
+puma	puma 	Plants and animals
+queltehue, tero	southern lapwing	Plants and animals
+queso	cheese	Food and drink
+Quiero...	I want...	Basic
+quince	15	Numerals
+quinientos	300	Numerals
+Quisiera...	I'd like...	Basic
+recibo	receipt 	Travel and accommodation
+refugio	hut 	Trekking
+reservación	reservation 	Travel and accommodation
+restaurante	restaurant 	Travel and accommodation
+río	river 	Trekking
+roca	rock 	Trekking
+roto	broken	Emergencies
+saco de dormir	sleeping bag	Equipment
+sal	salt	Food and drink
+salto, cascada	waterfall 	Trekking
+seguro	insurance	Emergencies
+seis	6	Numerals
+semana	week 	Time and dates
+sendero	path, trail 	Trekking
+septiembre	September 	Time and dates
+sesenta	60	Numerals
+setenta	70	Numerals
+Si	Yes	Basic
+siete	7	Numerals
+Soy inglés(a)/irlandés(a)/escocés(a)	I'm English/Irish/Scottish	Basic
+Son las cuatro y media	1630	Time and dates
+Son las ocho	800	Time and dates
+Son las ocho y cuarto	815	Time and dates
+Son las tres	1500	Time and dates
+sopa	soup	Food and drink
+sour	pisco	Food and drink
+supermercado	supermarket 	Travel and accommodation
+tarde	afternoon 	Time and dates
+té	tea 	Food and drink
+tienda	shop 	Travel and accommodation
+tienda	tent 	Equipment
+tomate	tomato 	Food and drink
+trece	13	Numerals
+treinta	30	Numerals
+tren	train 	Transport
+tres	3	Numerals
+un millión	1 million 	Numerals
+un/una/uno	1	Numerals
+una semana	one week 	Travel and accommodation
+vacuno	beef 	Food and drink
+vado	ford 	Trekking
+vegetariano	vegetarian 	Food and drink
+veinte	20	Numerals
+veintidós	22	Numerals
+veintiuno	21	Numerals
+ventana	window 	Transport
+verano	summer 	Time and dates
+verdures	vegetables 	Food and drink
+viente	wind 	Trekking
+viernes	Friday 	Time and dates
+vino (tinto/blanco)	wine (red/white)	Food and drink
+zona de acampar	campsite 	Trekking
+zorro	fox	Plants and animals
